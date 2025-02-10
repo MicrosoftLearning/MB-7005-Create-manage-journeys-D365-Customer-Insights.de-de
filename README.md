@@ -1,3 +1,11 @@
+#README
+
+We've turned off the ability to report issues directly on this repo and do not monitor PRs.
+
+Provide feedback here: https://aka.ms/provide-feedback
+
+Or, if you are a trainer with a microsoft.com email address, please create a ticket in AzDO.
+
 # MB-7005 – Formulare und Seiten in Dynamics 365 Customer Insights – Journeys verwalten
 
 Dieses Repository enthält Übungen und unterstützende Dateien für MB-7005 – Formulare und Seiten in Dynamics 365 Customer Insights – Journeys verwalten. Dieser Kurs richtet sich an Studierende, die Dynamics 365 Customer Insights verwenden möchten, um Marketing-Journeys in ihrer Karriere zu erstellen und bereitzustellen, oder an Analysten der Kundenerfahrung, die erfahren möchten, wie Dynamics 365 Customer Insights für eine Organisation konfiguriert werden kann.
