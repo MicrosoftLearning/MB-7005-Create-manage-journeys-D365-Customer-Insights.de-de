@@ -32,7 +32,7 @@ In diesem Lab lernen Sie Folgendes:
 
 1. Entwerfen Sie die E-Mail. Im Screenshot der Willkommens-E-Mail 1 unten finden Sie Design- und Inhaltsideen mithilfe des Hero-Bilds, das Sie in den Setupanweisungen hochgeladen haben. Sie können die Bilder und Inhalte nach Bedarf ändern, aber Sie sollten eine Interaktive Schaltfläche in diese E-Mail integrieren, da sie innerhalb der Journey als Verzweigungskriterium verwendet wird.
 
-![Screenshot von Willkommens-E-Mail 1.](../Labs/Media/welcome-email-1-example.png) 
+    ![Screenshot von Willkommens-E-Mail 1.](../Labs/Media/welcome-email-1-example.png) 
 
 1. Hier ist eine Beispielkopie für diese E-Mail. Sie können sie kopieren und in Ihr E-Mail-Design einfügen. Verwenden Sie **Personalisierung**, um dynamische Inhalte für den Vornamen des Kontakts einzugeben. 
 
@@ -81,7 +81,7 @@ Wir werden zwei weitere E-Mails erstellen, indem wir die soeben erstellte E-Mail
 
 1. Entwerfen Sie die E-Mail. Im Screenshot der Willkommens-E-Mail 2 unten finden Sie Design- und Inhaltsideen. Sie können die Bilder und Inhalte nach Bedarf ändern. 
 
-![Screenshot der Willkommens-E-Mail 2.](../Labs/Media/welcome-email-2-example.png) 
+    ![Screenshot der Willkommens-E-Mail 2.](../Labs/Media/welcome-email-2-example.png) 
 
 1. Hier sehen Sie eine Beispielkopie für diese E-Mail. Sie können sie kopieren und in Ihr E-Mail-Design einfügen. (Hinweis: Wir empfehlen, FirstName aus der ersten E-Mail beizubehalten und dann den Rest der Kopie damit zu ersetzen.) 
 
@@ -109,7 +109,7 @@ We will create one final email by copying email 2.
 
 1. Design the email. Refer to the screenshot of Welcome Email 3 below for design and content ideas. You can modify the images and content as desired. 
 
-![Screenshot of Welcome Email 3.](../Labs/Media/welcome-email-3-example.png) 
+    ![Screenshot of Welcome Email 3.](../Labs/Media/welcome-email-3-example.png) 
 
 1. Here is sample copy for this email. You can copy and paste this into your email design. (Note: We recommend leaving FirstName from the first email and then replacing the rest of the copy with this.) 
 
@@ -118,8 +118,9 @@ We will create one final email by copying email 2.
 
     Verwenden Sie den nachstehenden Link, um das Kit von unserer Website herunterzuladen.
     
-    Wenn Sie weitere Fragen haben, wenden Sie sich bitte an mich. Cheers, John Smith, Versicherungsspezialist jsmith@contosoinsurance.com888-888-8888 
+    Wenn Sie weitere Fragen haben, wenden Sie sich bitte an mich. Cheers, John Smith, Versicherungsspezialist jsmith@contosoinsurance.com888-888-8888
+    ```
 
-1. Aktualisieren Sie die Schaltfläche in der E-Mail. Ändern Sie sie im Feld **Schaltflächentextf** diesen in **Hier klicken für das Willkommenskit**.
+1. Update the button in the email. In the **Button text** field, change it to **Click here for the welcome kit.**
 
-1. Anzeigen, Testen und Live-Live mit Ihrer E-Mail.
+1. Preview, test, and go live with your email.

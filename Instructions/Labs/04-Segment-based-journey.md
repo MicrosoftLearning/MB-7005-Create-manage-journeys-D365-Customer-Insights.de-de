@@ -58,9 +58,7 @@ Da das Ziel dieser Journey darin besteht, die Menschen dazu zu bringen, sich fü
 
 1.  Legen Sie den Wert auf **Ted Contoso** fest.
 
-1. Legen Sie in **Nach Segmenten beenden** den Wert auf **Contoso Customers** fest. Die Beendigungskriterien sollten wie die folgende Abbildung aussehen.
-
-    ![Screenshot der Beendigungskriterien.](../Labs/Media/complete-exit-criteria.png)
+1. Legen Sie in **Nach Segmenten beenden** den Wert auf **Contoso Customers** fest. 
 
 ### Aufgabe 3: Erstellen der Journey
 Nachdem wir nun die verschiedenen Kriterien für diese Journey definiert haben, werden wir die Journey selbst erstellen.  
@@ -75,7 +73,7 @@ Nachdem wir nun die verschiedenen Kriterien für diese Journey definiert haben, 
 
 1. Ändern Sie den Wert von „Ist gleich“ in **Enthält**.
 
-1. Geben Sie in „Wert“ **Business** ein.
+1. Geben Sie in „Wert“ den Wert **Business** ein.
 
 1. Klicken Sie auf das **Plus-Symbol (+)** unter „Verzweigung 1“.
 
